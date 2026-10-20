@@ -1,5 +1,5 @@
 import { View, StyleSheet, Text } from "react-native";
-import OpenStreetMap from "@/presentation/components/maps/OpenStreetMap";
+import OpenStreetMap from "../../presentation/components/maps/OpenStreetMap";
 
 const DOSQUEBRADAS = { latitude: 4.834, longitude: -75.673 };
 
